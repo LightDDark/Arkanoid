@@ -1,6 +1,8 @@
 import biuoop.GUI;
 import biuoop.DrawSurface;
-
+import com.oryehezkel.gameobject.Ball;
+import com.oryehezkel.geometry.Line;
+import com.oryehezkel.geometry.Point;
 import java.util.Random;
 import java.awt.Color;
 

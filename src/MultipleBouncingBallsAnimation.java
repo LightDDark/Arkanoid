@@ -1,4 +1,6 @@
 import biuoop.GUI;
+import com.oryehezkel.gamelogic.Velocity;
+import com.oryehezkel.gameobject.Ball;
 
 import java.awt.Color;
 import java.util.Random;

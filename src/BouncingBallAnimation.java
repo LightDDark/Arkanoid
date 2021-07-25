@@ -1,6 +1,8 @@
 import biuoop.DrawSurface;
 import biuoop.GUI;
 import biuoop.Sleeper;
+import com.oryehezkel.gameobject.Ball;
+import com.oryehezkel.geometry.Point;
 
 /**
  * @author Or Avraham Yehezkel 314915869.

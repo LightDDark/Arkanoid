@@ -1,6 +1,7 @@
 import biuoop.DrawSurface;
 import biuoop.GUI;
 import biuoop.Sleeper;
+import com.oryehezkel.gameobject.Ball;
 
 import java.awt.Color;
 import java.util.Arrays;
